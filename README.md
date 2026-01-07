@@ -1,5 +1,5 @@
 # Ex01 Django ORM Web Application
-## Date: 24-11-2025
+## Date: 24-12-2025
 
 
 ## AIM
